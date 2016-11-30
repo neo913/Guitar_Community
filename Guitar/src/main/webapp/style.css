@@ -1,0 +1,38 @@
+body{
+	max-width:990px;
+}
+#nav{
+	width: 100%;
+	min-height: 50px;
+	border-bottom: 3px solid #372f8d;
+}
+.nav li{
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 5px;
+	border-radius: 5px;
+}
+.nav li a{
+	color: #372f8d;
+	border-radius: 5px;
+}
+.nav a:hover {
+	color: #372f8d;
+	text-shadow: 3px 3px #FFFFFF;
+	border-radius: 5px;
+	background-color: #372f8d;
+}
+.logo-sm{
+	width: 60px;
+	margin: 10px;
+	float: left;
+}
+#main_slide{
+	max-width: 600px;
+	height: 400px !important;
+	float: left;
+}
+#main_articles .article{
+	width:500px;
+}
